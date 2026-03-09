@@ -6,7 +6,7 @@ Specialized in **Computing and Network Infrastructures**, I have a strong founda
 
 ### 🚀 What I'm doing now:
 * **Pivoting towards Platform Engineering:** Focused on building scalable, cloud-native architectures and low-latency distributed systems.
-* **Research & Development:** Leveraging academic research in **WSN (Wireless Sensor Networks)** and deterministic networking for modern cloud infrastructure.
+* **Research & Development:** Leveraging academic research in **WSN (Wireless Sensor Networks)** and deterministic networking.
 * **Current Project:** [Project PSP](https://github.com/CarDamm/psp-cloud-bridge) - Bridging legacy hardware to **AWS** via **WireGuard** and **Terraform**.
 
 ### 🛠 Tech Stack
