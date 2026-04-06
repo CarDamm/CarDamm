@@ -1,6 +1,8 @@
 # Hi there! I'm Carmine D'Amore 👋
 
-**Software Engineer | M.Sc. in Computer Engineering | SRE & DevOps Aspirant** with 2+ years of professional experience in **Digital Manufacturing** and **Backend Development**. 
+**Software Engineer | M.Sc. in Computer Engineering**
+
+**SRE & DevOps Enthusiast** with a focus on high-performance distributed systems.
 
 Specialized in **Computing and Network Infrastructures**, I focus on managing mission-critical data flows and high-performance distributed systems.
 
