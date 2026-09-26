@@ -1,18 +1,19 @@
-# Hi there! I'm Carmine D'Amore 👋
+# Hi, I'm Carmine D'Amore 👋
 
 **Software Engineer | M.Sc. in Computer Engineering**
 
-**SRE & DevOps Enthusiast** with a focus on high-performance distributed systems.
+Software Engineer with professional experience in **Java backend development** and **DevOps/CI/CD**, with an academic background focused on **computing and network infrastructures**.
 
-Specialized in **Computing and Network Infrastructures**, I focus on managing mission-critical data flows and high-performance distributed systems.
-
-### 🚀 What I'm doing now:
-* **Pivoting towards Platform Engineering:** Building scalable, cloud-native architectures with a focus on observability and low-latency ingestion.
-* **Research & Development:** Leveraging academic research in **WSN (Wireless Sensor Networks)** and deterministic networking.
-* **Current Project:** [Project PSP](https://github.com/CarDamm/psp-cloud-bridge) - Bridging legacy hardware to **AWS** via **WireGuard** and **Terraform**.
+Currently interested in **systems software, Linux, networking, and low-level programming**, while expanding my experience beyond application development and infrastructure automation.
 
 ### 🛠 Featured Projects
-* **[xem-log](https://github.com/CarDamm/xem-log)**: A high-performance log ingester built in **Rust**. Implements OTLP/gRPC ingestion, zero-copy parsing, and asynchronous batching to S3/Parquet for cost-efficient observability.
 
-### 🧰 Tech Stack
-`Rust` `Java` `SQL` `Python` `AWS` `Terraform` `Docker` `Kubernetes` `Linux Networking`
+- **[xem-log](https://github.com/CarDamm/xem-log)** — Asynchronous log ingester written in **Rust**, receiving OTLP/gRPC streams and batching logs to Parquet files on S3-compatible storage.
+
+- **[lpc1768-tetris](https://github.com/CarDamm/lpc1768-tetris)** — Tetris implementation in **C** for the NXP LPC1768 / ARM Cortex-M3 LandTiger platform, using hardware timers, interrupt-driven events, and incremental LCD rendering.
+
+### 🔧 Technologies
+
+`Java` `C` `Rust` `Python` `Bash` `SQL`  
+`Linux` `Git` `Docker` `Jenkins` `Azure DevOps`  
+`PostgreSQL` `Networking`
